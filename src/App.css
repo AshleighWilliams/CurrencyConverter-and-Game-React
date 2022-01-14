@@ -1,0 +1,26 @@
+/*external stylesheet for app.js*/
+
+.App {
+  text-align: center;
+}
+/*above styles the entire app*/
+
+body {
+  background-color: wheat;
+}
+/*above styles the body of the app*/
+
+#dropdown-item-button {
+  background-color: white;
+}
+/*above styles the dropdown button*/
+
+#dropdown-item {
+  background-color: white;
+}
+/*above styles the dropdown options*/
+
+#dropdow-item:hover {
+  background-color: wheat;
+}
+/*above styles the dropdown options when hovered*/
