@@ -1,5 +1,6 @@
 # CurrencyConverter-and-Game-React
-A web app created with React.js.
+* A web app created with React.js.
+* https://converter-or-win-withreact.herokuapp.com/
 
 <!--Table of Contents-->
 <details open= "open">
